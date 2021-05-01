@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96617104799",
+    "project_id": "follow-up-51c20",
+    "storage_bucket": "follow-up-51c20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96617104799:android:a91a296d5bacb7924ea9aa",
+        "android_client_info": {
+          "package_name": "com.example.followup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96617104799-l9897stlbf0rv19olcpgcmkqs7m8jicm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6A1sl48C0xNVpPHy6c91-qPPksns7UKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96617104799-l9897stlbf0rv19olcpgcmkqs7m8jicm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
